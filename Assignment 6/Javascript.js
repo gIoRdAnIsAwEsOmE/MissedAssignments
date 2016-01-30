@@ -17,5 +17,9 @@ function setupCard(id){
 		}else if(x<26){
 			$(id + x).text(getRandomNumber(61,75));
 		}
-	}
+	j}
+}
+
+function makeCardid(){
+	
 }
